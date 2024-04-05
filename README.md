@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Product+Sans&size=50&pause=1000&color=303092FF&background=FFFFFF00&center=true&vCenter=true&random=false&width=900&lines=Hi%F0%9F%91%8B%2C I'm  Moritz Maier;I'm+16+years+old+and+from+Germany" alt="Typing SVG" title="Laptop"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Product+Sans&size=50&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=900&lines=Hi%F0%9F%91%8B%2C I'm  Moritz Maier;I'm+16+years+old+and+from+Germany" alt="Typing SVG" title="Laptop"/></a>
 
 
 <hr>
@@ -44,12 +44,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pennti1&show_icons=true&locale=en" alt="pennti1" /></p>
 <hr>
 <br>
-<h1>Young Developer Passionate about Learning and Growth</h1>
-🚀 I'm always on the lookout for new challenges and opportunities to deepen and apply my knowledge in Python and web development.
+<h1>Coding Journey</h1>
+2023, I started learning to code, but it wasn't always easy. Sometimes I felt unsure if I was on the right path, and I even took a break for a while. But something inside me kept pulling me back, urging me to keep going.
+So, I picked up Python again and started practicing every day. I used Visual Studio Code to write and run my code.
 
-🎨 In addition to my passion for technology, I have an interest in design and creating appealing user interfaces.
-
-🎓 Alongside my self-directed learning, I'm also willing to participate in courses, workshops, or other learning opportunities to further enhance   my knowledge and skills.
-
+But I wanted to do more than just write code. I was curious about hacking—learning how to protect computer systems from bad guys. So, I set up Kali Linux and started learning about cybersecurity. I began with simple challenges that taught me how to use the basics of Bash.I often feel like I haven't learned much, but upon reflecting on the past, I realize I've actually learned a great deal, and I hope to continue doing so in the future.
 
 
