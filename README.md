@@ -44,7 +44,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pennti1&show_icons=true&locale=en" alt="pennti1" /></p>
 <hr>
 <br>
-<h1>Coding Journey</h1>
+<h1>🚀Coding Journey🚀</h1>
 2023, I started learning to code, but it wasn't always easy. Sometimes I felt unsure if I was on the right path, and I even took a break for a while. But something inside me kept pulling me back, urging me to keep going.
 So, I picked up Python again and started practicing every day. I used Visual Studio Code to write and run my code.
 
