@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Python,HTML**
 
-- 🤝 I’m looking for help with **Python,Web development**
+- 🤝 I’m looking for help with **Python,HTML**
 
 - 💬 Ask me about **Python**
 
