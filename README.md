@@ -4,13 +4,13 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Product+Sans&size=50&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=900&lines=Hi%F0%9F%91%8B%2C I'm  Moritz Maier;I'm+16+years+old+and+from+Germany" alt="Typing SVG" title="Laptop"/></a>
 <p align="left"> <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pennti1&label=Profile%20views&color=0e75b6&style=flat" alt="pennti1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Moritz344&label=Profile%20views&color=0e75b6&style=flat" alt="pennti1" /> </p>
 <hr>
 
 
 **`Digital Craftsman (Coder/Filmmaker)`**
-
-<h2>I am a 16-year-old guy who enjoys coding and video editing. I manage two YouTube channels: one primarily focused on coding-related content, and the other where I share random content. With Currently around 400 subscribers. Additionally, I possess fundamental knowledge of Python and Bash.</h2>
+<h2>I am a 16-year-old guy who enjoys coding and video editing. I manage two YouTube channels: one primarily focused on coding-related content, and the other where I share random content. With Currently around 400 subscribers. Additionally, I possess fundamental knowledge of Python and Bash.
+</h2>
 
 
 
@@ -24,7 +24,7 @@
 <br>
 <h1 align="center">👀Connect with me👀</h1>
 <p align="center">
-<a href=https://www.youtube.com/@pennti/featured" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pennti1" height="50" width="50" /></a>
+<a href=https://www.youtube.com/@pennti/featured target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pennti1" height="50" width="50" /></a>
 </p>
 <hr>
 
