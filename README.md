@@ -3,8 +3,10 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Product+Sans&size=50&pause=1000&color=2B69FFFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=900&lines=Hi%F0%9F%91%8B%2C I'm  Moritz Maier;I'm+16+years+old+and+from+Germany" alt="Typing SVG" /></a>
 
+<hr>
 
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pennti1&label=Profile%20views&color=0e75b6&style=flat" alt="pennti1" /> </p>
