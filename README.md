@@ -24,7 +24,7 @@
 <br>
 <h1 align="center">👀Connect with me👀</h1>
 <p align="center">
-<a href=https://www.youtube.com/@pennti/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pennti1" height="50" width="50" /></a>
+<a href=https://www.youtube.com/@pennti/featured" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pennti1" height="50" width="50" /></a>
 </p>
 <hr>
 
