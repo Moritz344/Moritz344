@@ -8,7 +8,7 @@
 <hr>
 
 
-
+**`Digital Craftsman (Coder/Filmmaker)`**
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 
 
@@ -45,10 +45,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Moritz344&show_icons=true&locale=en" alt="pennti1" /></p>
 <hr>
 <br>
-<h1>🚀Coding Journey🚀</h1>
-2023, I started learning to code, but it wasn't always easy. Sometimes I felt unsure if I was on the right path, and I even took a break for a while. But something inside me kept pulling me back, urging me to keep going.
-So, I picked up Python again and started practicing every day. I used Visual Studio Code to write and run my code.
 
-But I wanted to do more than just write code. I was curious about hacking—learning how to protect computer systems from bad guys. So, I set up Kali Linux and started learning about cybersecurity. I began with simple challenges that taught me how to use the basics of Bash.I often feel like I haven't learned much, but upon reflecting on the past, I realize I've actually learned a great deal, and I hope to continue doing so in the future.
+<details>
+  <summary><h3>🚀Coding Journey🚀</h3></summary>
+  2023, I started learning to code, but it wasn't always easy. Sometimes I felt unsure if I was on the right path, and I even took a break for a while. But something inside me kept pulling     me back, urging me to keep going.
+  So, I picked up Python again and started practicing every day. I used Visual Studio Code to write and run my code.
+  But I wanted to do more than just write code. I was curious about hacking—learning how to protect computer systems from bad guys. So, I set up Kali Linux and started learning about           cybersecurity. I began with simple challenges that taught me how to use the basics of Bash.I often feel like I haven't learned much, but upon reflecting on the past, I realize I've           actually learned a great deal, and I hope to continue doing so in the future.
 
 
