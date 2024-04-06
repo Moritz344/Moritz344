@@ -37,7 +37,7 @@
 
 
 <hr>
-
+<h1 align="center">🔍Stats🔍</h1>  
 <hp><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Moritz344&" alt="pennti1 " /></hp>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Moritz344&show_icons=true&locale=en" alt="pennti1" /></p>
 <hr>
