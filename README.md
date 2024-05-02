@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Moritz344&label=Profile%20views&color=0e75b6&style=flat" alt="pennti1" /> </p>
 <hr>
-<h1 align="left" font="Product Sans">💻 Moritz </h1>
+<h1 align="left" font="Product Sans">💻 Moritz Maier</h1>
 
 **`Digital Craftsman (Coder/Filmmaker)`**
 <h2>I am a 16-year-old guy who enjoys coding and video editing. I manage two YouTube channels: one primarily focused on coding-related content, and the other where I share random content. With Currently around 400 subscribers. Additionally, I possess fundamental knowledge of Python and Bash.
