@@ -9,7 +9,7 @@
 <h1 align="left" font="Product Sans">💻 Moritz Maier</h1>
 
 **`Digital Craftsman (Coder/Filmmaker)`**
-<h2>I am a 16-year-old guy who enjoys coding and video editing. I manage two YouTube channels: one primarily focused on coding-related content, and the other where I share random content. With Currently around 400 subscribers. Additionally, I possess fundamental knowledge of Python and Bash.
+<h2>I am a 16-year-old student who enjoys coding and video editing.
 </h2>
 
 
