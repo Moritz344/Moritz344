@@ -36,11 +36,4 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" width="80" height="80"> 
 
 
-<details>
-  <summary><h3>🚀Coding Journey🚀</h3></summary>
- At the age of 14, I embarked on my coding journey. Following a brief hiatus post-introductory Python learning, I returned to coding, immersing myself in daily learning sessions, largely comprising tutorial consumption. This phase led me into the depths of "tutorial hell," from which I eventually emerged, finding newfound enjoyment in independent project development.
-In addition, I delved into the realm of Linux, hacking, and Bash programming, spurred by my exploration of a dedicated book. Subsequently rekindling my interest in Python, I embarked on the creation of various small-scale projects, including a terminal, to-do list, Flappy Bird clone, and Guess the Number game.
-
-Despite occasional doubts about my progress, reflecting on my journey fills me with pride, motivating me to aspire toward becoming a proficient programmer in the future. Thank you for taking the time to read about my experiences. ❤️
-
 
