@@ -35,12 +35,6 @@
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" width="80" height="80"> 
 
-<hr>
-<h1 align="center">🔍Stats🔍</h1>  
-<hp><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Moritz344&" alt="pennti1 " /></hp>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Moritz344&show_icons=true&locale=en" alt="pennti1" /></p>
-<hr>
-<br>
 
 <details>
   <summary><h3>🚀Coding Journey🚀</h3></summary>
