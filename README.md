@@ -29,7 +29,7 @@ me = {
     "projects": ["small games","other"],
     "tools": ["command-line","VS-CODE","vim"],
     "learning": ["Python", "game development","Hacking"],
-    "qouteoftheday": "I couldnt think of one lmao"
+    "qouteoftheday": "It not about avoiding the thunderstorm its about dancing in the rain
 }
 ```
 
