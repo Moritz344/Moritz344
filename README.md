@@ -28,8 +28,7 @@ me = {
     "languages": ["Python"],
     "projects": ["small games","other"],
     "tools": ["command-line","VS-CODE","vim"],
-    "learning": ["Python", "game development","Hacking"],
-    "qouteoftheday": "Life's not about waiting for the storm to pass but learning how to dance in the rain"
+    "learning": ["Python", "game development","Hacking"]
 }
 ```
 
