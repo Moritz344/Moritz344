@@ -26,7 +26,7 @@ me = {
     "interests": ["coding", "command-line"],
     "languages": ["Python"],
     "projects": ["small games","other"],
-    "tools": ["command-line","vim"],
+    "tools": ["command-line","lvim"],
     "learning": ["Python", "game development","Hacking"]
 }
 ```
