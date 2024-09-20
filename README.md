@@ -7,15 +7,15 @@
 <div align="left">
 <pre>
   Im building things in python.
-  ______________________________________     
-/ Excellent day for putting Slinkies on \    
-\ an escalator.                         /                                                         
- ---------------------------------------            
-        \   ^__^                                               
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+                                         ______________________________________     
+                                        / Excellent day for putting Slinkies on \    
+                                        \ an escalator.                         /                                                         
+                                         ---------------------------------------            
+                                                                \   ^__^                                               
+                                                                 \  (oo)\_______
+                                                                    (__)\       )\/\
+                                                                          ||----w |
+                                                                          ||     ||
   
 </pre>
 </div>
