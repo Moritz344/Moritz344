@@ -18,9 +18,4 @@ Here are some of my projects:
 
 <center>
 
-<pre>
 
-Python                                      ████████████████░░░░░░░░░░░░░  
-Go                                          ████░░░░░░░░░░░░░░░░░░░░░░░░░         
-</pre>
-     
