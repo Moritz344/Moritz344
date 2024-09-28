@@ -5,12 +5,11 @@
 <img align="left" src="https://orhun.dev/img/crow.png">
 <br>
 <pre>
-Hello
-
-Im a 16 year old programmer that builds small things in python.
-For example remaking old games like pingpong and snake which is really fun
-or creating other small things like a Twitch chat tool that lets you see
-twitch messages from a stream in the terminal.
+ # Hello
+ Im a 16 year old guy who codes in his freetime. For coding I use nvim and I really enjoy and     
+ suffer using it. I mainly code in Python but maybe in the future I will try learning a new       
+ Programming Language. Also I have some experience in the shell from the overthewire Bandit Level 
+ which was really cool and I recommend.
 </pre>
 
 <br>
