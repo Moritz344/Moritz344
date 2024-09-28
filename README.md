@@ -1,4 +1,4 @@
-<img align="right" src="https://ko-fi.com/img/githubbutton_sm.svg">
+<img href="https://ko-fi.com/pennti" align="right" src="https://ko-fi.com/img/githubbutton_sm.svg ">
 <img align="left" src="https://orhun.dev/img/crow.png">
 <br>
 <pre>
