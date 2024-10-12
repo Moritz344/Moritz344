@@ -2,7 +2,7 @@
     <img align="right" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
 </a>
 
-<img align="left" src="https://orhun.dev/img/crow.png">
+
 <br>
 <pre>
  # Hello
