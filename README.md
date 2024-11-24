@@ -1,8 +1,4 @@
-<a href="https://ko-fi.com/pennti" target="_blank">
-    <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
-</a>
 
-<br>
 <br>
 <pre>
  # Hello
