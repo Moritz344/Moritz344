@@ -12,7 +12,7 @@
 <br>
 
 <pre>
- # Hello
+ # About me
  Im a 16 year old guy who codes in his freetime. For coding I use nvim and I really enjoy and     
  suffer using it. I mainly code in Python but maybe in the future I will try learning a new       
  Programming Language. Also I have some experience in the shell from the overthewire Bandit Level 
