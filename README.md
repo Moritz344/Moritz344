@@ -16,7 +16,7 @@
 ```python
      class Programmer(object):
           def __init__(self):
-               self.name: str = "Moritz Maier"
+               self.name: str = "Moritz"
                self.age: int = 16
 
           def hi(self):
