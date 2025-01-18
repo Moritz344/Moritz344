@@ -16,7 +16,8 @@
  I'm a 16 year old guy who codes in his freetime. For coding I use nvim/vim and I really enjoy and     
  suffer using it. Im currently only writing in python and bash. I also have some experience in the
  shell from the overthewire Bandit Level 
- which was really cool and I recommend.
+ which was really cool and I recommend. I also edit videos with Davinci Resolve(coding videos,anime edits,shorts).
+ I also do thumbnails!
 </pre>
 
 <br>
