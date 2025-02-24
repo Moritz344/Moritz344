@@ -27,7 +27,6 @@
      
 </pre>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W61324M0)
 
 
 <br>
