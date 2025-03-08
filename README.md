@@ -1,6 +1,4 @@
 
-![Screenshot_74](https://github.com/user-attachments/assets/808e74f5-27a7-452f-8c2d-16f713f64142)
-
 
      
 ```python
