@@ -5,7 +5,7 @@
      class Programmer(object):
           def __init__(self):
                self.name: str = "Moritz"
-               self.age: int = 16
+               self.age: int = 17
 
           def hi(self):
                print("Hey!")
