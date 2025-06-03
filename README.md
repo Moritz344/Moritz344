@@ -1,6 +1,10 @@
 
+<img align="left" src="https://github.com/user-attachments/assets/91540fa0-372a-4df5-8f28-5de27aa4f6b2" height=300 width=300 alt="cube">
 
-     
+
+
+
+
 ```python
      class Programmer(object):
           def __init__(self):
@@ -28,8 +32,5 @@
 
 
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Moritz344&theme=gruvbox&show_icons=true&hide_border=true&count_private=true">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moritz344&theme=gruvbox&show_icons=true&hide_border=true&layout=compact">
-
 
 
