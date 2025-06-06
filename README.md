@@ -1,8 +1,4 @@
 
-<img align="left" src="https://github.com/user-attachments/assets/91540fa0-372a-4df5-8f28-5de27aa4f6b2" height=300 width=300 alt="cube">
-
-
-
 
 
 ```python
