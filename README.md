@@ -17,12 +17,14 @@
 
 
 <pre>
- # About Me
- I'm a 17 year old guy who likes programming in his freetime. For coding I use nvim/vim and I really enjoy and     
- suffer using it. I mainly write in python and javascript right now. I also have some experience in the
- shell from the overthewire Bandit Level which was really cool and I recommend.
- I also edit videos with Davinci Resolve(coding videos,anime edits,shorts).
-     
+# About Me
+I'm a 17 year old who enjoys programming in his free time. 
+I switched from vim to Doom Emacs, and I’ve been really enjoying the experience.
+Right now, I mainly code in Python and JavaScript. I’ve also gained some shell experience 
+through the OverTheWire Bandit challenges, which I found really fun and highly recommend.
+In addition to coding, I also have experience in video editing with DaVinci Resolve
+.I love building small apps, learning new programming languages, and creating simple games 
+inspired by cellular automatons, like Langton's Ant or similar concepts.
 </pre>
 
 
