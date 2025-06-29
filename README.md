@@ -1,4 +1,4 @@
-# 🧙‍♂️  Pennti
+# 🧙‍♂️  Moritz344
 <pre>
 I'm a 17 year old who enjoys programming in his free time. 
 I switched from vim to Doom Emacs, and I’ve been really enjoying the experience.
