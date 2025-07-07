@@ -11,19 +11,5 @@ inspired by cellular automatons, like Langton's Ant or similar concepts.
 
 
 
-```python
-     class Programmer(object):
-          def __init__(self):
-               self.name: str = "Moritz"
-               self.age: int = 17
-
-          def hi(self):
-               print("Hey!")
-
-     programmer = Programmer()
-     programmer.hi()
-```
-   
-
 
 
