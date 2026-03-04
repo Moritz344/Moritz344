@@ -1,7 +1,7 @@
 
 <h1 align="left">
-   <img height="50" src="https://media1.tenor.com/m/rEd35Rfq3m4AAAAd/cat-work-in-progress.gif"  />
-  Moritz344
+<img width="1324" height="378" alt="▄▄▄▄███▄▄▄▄ ▄██████▄ ▄████████ ▄█ ███ ▄███████▄ ▄██▀▀▀███▀▀▀██▄ ███ ███ ███ ███ █-2" src="https://github.com/user-attachments/assets/39a97ca6-cb03-43a9-a964-6b15af78d1d4" />
+
 </h1>
 
 
