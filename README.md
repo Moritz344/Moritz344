@@ -5,7 +5,7 @@
 </h1>
 
 
-<pre align="left">I'm a 17 year old who enjoys programming in his free time. I love Linux and neovim.<br>Right now, I mainly code in JavaScript/Typescript. I’ve also gained some shell experience <br>through the OverTheWire Bandit challenges, which I found really fun and highly recommend.<br>In addition to coding, I also have experience in video editing with DaVinci Resolve.</pre>
+<pre align="left">I'm a 18 year old who enjoys programming in his free time. I love Linux and neovim.<br>Right now, I mainly code in JavaScript/Typescript. I’ve also gained some shell experience <br>through the OverTheWire Bandit challenges, which I found really fun and highly recommend.<br>In addition to coding, I also have experience in video editing with DaVinci Resolve.</pre>
 
 
 <div align="left">
