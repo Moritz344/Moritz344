@@ -11,7 +11,7 @@
 - <a href="https://github.com/Moritz344/lurker" target="_blank">lurker</a> - chat client for twitch supporting BetterTTV,7tv Emotes and Twitch Emotes
 - <a href="https://github.com/Moritz344/GruvAnime" target="_blank">gruvanime </a> - discover anime and manga
 - <a href="https://github.com/Moritz344/bob-the-fisherman" target="_blank"> bob-the-fisherman</a> - minecraft bot for afk fishing
-- <a href="https://github.com/Moritz344/nero-launcher" target="_blank"> nero-launcher </a> - cli app launcher for linux
+- <a href="https://github.com/Moritz344/wallview" target="_blank"> wallview </a> - view local wallpapers and browse wallhaven wallpapers
 - <a href="https://github.com/Moritz344/Raid-Log" target="_blank"> raid-log </a> - info webpage about the game arc raiders
 - <a href="https://github.com/Moritz344/Portfolio" target="_blank"> portfolio </a> - my portfolio website in german
 - <a href="https://github.com/Moritz344/dotfiles"> dotfiles</a> - my omarchy dotfiles
