@@ -12,7 +12,7 @@
 - <a href="https://github.com/Moritz344/GruvAnime" target="_blank">gruvanime </a> - discover anime and manga
 - <a href="https://github.com/Moritz344/bob-the-fisherman" target="_blank"> bob-the-fisherman</a> - minecraft bot for afk fishing
 - <a href="https://github.com/Moritz344/wallview" target="_blank"> wallview </a> - view local wallpapers and browse wallhaven wallpapers
-- <a href="https://github.com/Moritz344/Raid-Log" target="_blank"> raid-log </a> - info webpage about the game arc raiders
+- <a href="https://github.com/Moritz344/Raid-Log" target="_blank"> raid-log </a> - info website about the game arc raiders
 - <a href="https://github.com/Moritz344/Portfolio" target="_blank"> portfolio </a> - my portfolio website in german
 - <a href="https://github.com/Moritz344/dotfiles"> dotfiles</a> - my dotfiles
 
